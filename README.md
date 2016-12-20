@@ -39,4 +39,4 @@ Shortcut | Action
 ⌘⌥M| highlight the position of the mouse cursor
 ⌘⌥L| Lock the screen
 ⌘⌥R| Reload Hammerspoon config
-⌘⌥ `| Move the mouse cursor to the next screen
+⌘⌥ \`| Move the mouse cursor to the next screen
