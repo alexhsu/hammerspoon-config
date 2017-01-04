@@ -2,7 +2,7 @@ local hyper = {"alt"}
 -- App shortcuts
 local key2App = {
     d = "/Users/alex/Downloads",
-    e = "/Users/alex/eBooks",
+    -- e = "/Users/alex/eBooks",
     n = "/Users/alex/Documents/notes",
 }
 

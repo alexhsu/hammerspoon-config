@@ -23,6 +23,8 @@ if not module_list then
         "moom",
         "onekey",
         "system",
+        "textexpander",
+        "hazel",
     }
 end
 

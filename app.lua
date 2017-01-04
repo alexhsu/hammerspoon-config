@@ -14,6 +14,7 @@ local key2App = {
     a = 'Atom',
     c = 'Google Chrome',
     f = 'Firefox',
+    i = 'iTunes',
     k = 'Keyboard Maestro',
     m = 'Spark',
     o = 'Opera',
